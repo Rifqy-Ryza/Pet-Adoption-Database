@@ -6,8 +6,8 @@ This is my group Pet adoption Website website showcasing my projects, skills, an
 ## Built With
 - HTML
 - CSS
-- Sql
-- Php
+- SQL
+- PHP
 
 ## Features
 - Responsive design
@@ -22,4 +22,5 @@ Please download or have a personal database server to launch the database. The d
 
 ## Author
 Rifqy Nazhan Ryza
+
 

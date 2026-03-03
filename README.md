@@ -1,7 +1,7 @@
 ﻿# Pet-Adoption-Database
 
 ## About
-This is my group Pet adoption Website website showcasing my projects, skills, and databse understanding.
+This is my group Pet adoption Website website showcasing my projects, skills, and database understanding.
 
 ## Built With
 - HTML
@@ -22,5 +22,6 @@ Please download or have a personal database server to launch the database. The d
 
 ## Author
 Rifqy Nazhan Ryza
+
 
 

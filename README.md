@@ -1,4 +1,4 @@
-﻿# Pet-Adoption-Databse
+﻿# Pet-Adoption-Database
 
 ## About
 This is my group Pet adoption Website website showcasing my projects, skills, and databse understanding.
@@ -22,3 +22,4 @@ Please download or have a personal database server to launch the database. The d
 
 ## Author
 Rifqy Nazhan Ryza
+
